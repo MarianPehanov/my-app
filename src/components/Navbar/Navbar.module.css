@@ -1,0 +1,16 @@
+.nav {
+    grid-area: n;
+    background-color: #8ECDEB;
+    width: auto;
+    border-radius: 10px;
+    padding: 20px;
+    }
+.nav a {
+text-decoration: none;
+font-weight: 1000;
+font-size: large;
+color: #0976E1;
+}
+.nav a.active {
+    color: #072945;
+}
